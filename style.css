@@ -30,6 +30,7 @@ input{
     padding: 1rem;
     color:#fff;
     background: #000;
+    text-align: right;
     pointer-events: none;
 }
 
