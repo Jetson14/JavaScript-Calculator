@@ -6,7 +6,6 @@ let equal = document.getElementById('equal');
 buttons.forEach(btn => {
     btn.addEventListener('click', e => {
         screen.value += e.target.dataset.num;
-        console.log(screen.value);
     });
 });
 
